@@ -1,6 +1,6 @@
 
 ## Hellooo there! I'm Kevin Umali.
-I'm a Application/Web Developer
+I'm a Software/Fullstack/Backend/AWS/Cloud Engineer
 ## Follow my Social Media 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SemiiKulot?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SemiiKulot)
 
